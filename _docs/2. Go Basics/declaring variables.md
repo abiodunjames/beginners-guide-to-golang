@@ -59,7 +59,7 @@ var _,year =  1990, 2000 //year = 2000
 ```
 One of the cool things in Go is that all declared variables must be used. You can't keep dead variables in your code. Go compiler will scream at you if you do.
 
-###Defining Variables in Group
+### Defining Variables in Group
 
 You can declare variables or constants in group
 
