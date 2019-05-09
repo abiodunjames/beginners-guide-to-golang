@@ -3,9 +3,9 @@ title: Go array
 category: Array, Slice & Map
 order: 4
 ---
-Array is a range of a particular type of data, a data structure used to store data of a particular type like integers, strings etc. Array is very popular in all programming languages.
+Array is a range of a particular type of data. It's a data structure used to store data of a particular type like integers, strings etc. Array is very popular in most programming languages.
 
-Array can be defined in go as:
+Array can be defined as:
 ```
 var variableName [size] dataType
 
@@ -17,9 +17,9 @@ For example, an array of five integers would be defined as:-
 ```go
  var numbers [3][4] int{[4]int{1, 2, 3, 4}, [4]int{ 2, 5, 6, 8}, [4]int{9, 3, 12, 1}}
 ```
-Like other languages, Go array index starts from 0.
+Like other languages, array index starts from 0.
 
-We can set array values in go using indices.
+We can set an array values in go using its indices.
 
 ```go
 numbers[0] = 20  // assign 20 as value of index 0 
@@ -56,7 +56,7 @@ An array of 3 elements with a size 4 in each is defined as follows:
 ```
 
 ## Slice
-We can think of slice as dynamic arrays whose size is not defined. It is a normal array without the size constraint.
+We can think of slice as dynamic arrays whose size is not defined. It is an array without the size constraint.
 ```go
 var slice = []int //
 ```
