@@ -1,5 +1,5 @@
 ---
-title: Declaring Constant in Go
+title: Declaring Constants in Go
 category: Go Basics
 order: 2
 ---
