@@ -1,6 +1,6 @@
 ---
-title: Go array
-category: Array, Slice & Map
+title: Array, Slice & Map
+category: Go Basics
 order: 4
 ---
 Array is a range of a particular type of data. It's a data structure used to store data of a particular type like integers, strings etc. Array is very popular in most programming languages.
